@@ -1,1 +1,1 @@
-# Practicing_DuckDb
+Practicing DuckDb
